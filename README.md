@@ -7,3 +7,9 @@ The aim of this model is to examine the temporal relationship between the grassl
 ● Understand the complexity of the prey and predator biology (growth, consumption, biomass, etc.) to estimate model parameters
 
 ● Model the system to show the relationship between the two organisms in the ecosystem
+
+
+
+From the model interaction, the grass biomass decreased with continued grazing from the cattle population, and the cattle biomass increased with the consumption of the grasses. When the grasses depleted because of overgrazing as the cattle biomass surpassed the system capacity, the cattle biomass also depleted because of the absence of grass to feed on. The introduction of alternative prey in the form of hay for the predator population reversed this effect as the cattle biomass was sustained for longer periods even with the absence of grass for grazing in the ecosystem, and the grass regrowth rate was faster because the cattle consumption of the grass was reduced. 
+
+for more details please view the pdf file 'stochastic modelling of cattle and grass.pdf'
